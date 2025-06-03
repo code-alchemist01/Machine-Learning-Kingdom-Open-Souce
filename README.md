@@ -1,5 +1,3 @@
-# örnek repo awesome kopyasi
-
 # Yapay Zeka (YZ)
 
 Yapay Zeka (YZ): Bilgisayarların veya diğer makinelerin zeki davranışlar sergileme ya da bu davranışları taklit etme kapasitesi; bu konuyla ilgili çalışma alanı.
