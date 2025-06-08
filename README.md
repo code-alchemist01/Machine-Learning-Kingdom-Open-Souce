@@ -5,14 +5,12 @@ Yapay Zeka (YZ): Bilgisayarların veya diğer makinelerin zeki davranışlar ser
 ## Kapsam
 
 1. [Egitim](#egitim)  
-   - [Kurslar](#kurslar)  
-   - [Kitaplar](#kitaplar)  
+   - [Kurslar](#kurslar)   
    - [YouTube](#youtube)  
 2. [Araclar](#araclar)  
 3. [Haberler ve Bloglar](#haberler-ve-bloglar)  
 4. [Topluluklar ve Forumlar](#topluluklar-ve-forumlar)  
-5. [GitHub](#github)  
-6. [Veri Setleri](#veri-setleri)
+5. [Veri Setleri](#veri-setleri)
 
 
 ## Egitim
@@ -21,16 +19,19 @@ Yapay Zeka (YZ): Bilgisayarların veya diğer makinelerin zeki davranışlar ser
 
 * [BTK_Akademi](https://www.btkakademi.gov.tr/)
 * [Turkcell_gy](https://gelecegiyazanlar.turkcell.com.tr/)
-### Kitaplar
 
 ### YouTube
+* [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 
 ## Araclar
+* [ChatGPT](https://chatgpt.com/)
 
 ## Haberler ve Bloglar
+* [KDnuggets](https://www.kdnuggets.com/)
 
 ## Topluluklar ve Forumlar
-
-## GitHub
+* [r/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/)
 
 ## Veri Setleri
+
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
