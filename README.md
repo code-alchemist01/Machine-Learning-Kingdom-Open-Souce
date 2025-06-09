@@ -15,6 +15,8 @@ Yapay Zeka (YZ): Bilgisayarların veya diğer makinelerin zeki davranışlar ser
 
 ## Egitim
 
+📄 [The Complete Guide to BuildingAI Agents](Guide to building AI Agents from zero to production.pdf)
+
 ### Kurslar
 
 * [BTK_Akademi](https://www.btkakademi.gov.tr/)
