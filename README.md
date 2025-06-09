@@ -28,6 +28,7 @@ Yapay Zeka (YZ): Bilgisayarların veya diğer makinelerin zeki davranışlar ser
 
 ## Haberler ve Bloglar
 * [KDnuggets](https://www.kdnuggets.com/)
+* [TLDR](https://tldr.tech/)
 
 ## Topluluklar ve Forumlar
 * [r/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/)
